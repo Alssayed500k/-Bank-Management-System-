@@ -47,6 +47,8 @@
   
       ## 📸 لقطات من النظام (Screenshots)
       
+      https://github.com/Alssayed500k/-Bank-Management-System-/tree/5a31f116a1c883bac52ece038deaf8bca29444a4/images
+      
       
 ## 🚀 كيفية التشغيل (How to Run)
 
